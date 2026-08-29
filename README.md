@@ -1,3 +1,5 @@
 # ABOUT-MY-CODING
 DESCRIPTION OF THE CODE AND CONTENT I AM GOING TO PUSH ON GIT.
-SO BASICALLY HERE I AM PLANNING ON DOING CODING ON MULTIPLE PROGRAMMING LANGUAGES. AS I BEGIN MY FRESHMAN YEAR FIRST OF ALL I PLAN TO ENHANCE MY 'C' PROGRAMMING LANGUAGE SKILLS WHICH IS BEING TAUGHT TO US AND SECONDLY HAVING A BIT PRIOR KNOWLEDGE OF JAVA I PLAN TO WORK MORE ON THAT. THIRDLY MY INTEREST LIES IN PYTHON ON WHICH I WILL BE FOCUSING AND LEARNING THROUGH COLLEGE ORGANISED WORKSHOPS. OVERALL MY WORK HERE REVOLVES AROUND DEVELOPING BASIC CODING SKILLS FOR MY FRESHMAN YEAR AND GETTING A GRIP ON ALL PROGRAMMING LANGUAGES. WHICH IN FUTURE MIGHT HELP ME IN BUILDING A GREAT PROFILE AS AN ARTIFICAL INTELLIGENCE ENGINEER.
+Basically, I am planning on doing coding in multiple programming languages. As I begin my freshman year, first of all, I plan to enhance my 'C' programming language skills, which is being taught to us. Secondly, having a bit of prior knowledge of Java, I plan to work more on that. Thirdly, my interest lies in Python, on which I will be focusing and learning through college-organised workshops.
+
+Overall, my work here revolves around developing basic coding skills for my freshman year and getting a grip on all programming languages. This might help me in the future in building a great profile as an artificial intelligence engineer.
