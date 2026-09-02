@@ -1,4 +1,4 @@
-My Coding Journey 🚀
+My Coding Journey 💻
 
 Welcome to my coding journey.
 
